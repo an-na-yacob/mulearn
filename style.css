@@ -1,0 +1,57 @@
+.chapters{
+    height: 300px;
+    width: 500px;
+}
+#right{    
+    text-align: right;  
+    }
+.level0{
+    height: 300px;
+    width: 500px;
+    padding-left: 900px;
+    border-style: bold;
+    border-color: black;
+    }
+.box1{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(231, 116, 54);
+    border: solid;
+}
+.box2{
+    height:500px;
+    width:500px;
+    border:solid;
+    background-color: aliceblue;
+}
+.faq{
+    border-bottom: 1px solid;
+    
+}
+.faq1{
+    border-bottom: 1px solid;
+    
+}
+footer{
+    background-color:rgb(49, 47, 51);
+    display:block;
+}
+.f1{
+    color: white;
+}
+.f2{
+    border-bottom: 1px solid;
+    padding-left: 10px;
+    color: white;
+}
+.f3{
+    font-size: xx-small;
+    text-align: center;
+    color: white;
+}
+header{
+    
+}
+.h1{
+    text-align: right;
+}
